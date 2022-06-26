@@ -1,0 +1,4 @@
+name: grace
+version: '1.0-SNAPSHOT'
+main: com.github.leooowf.grace.GracePlugin
+author: LeooowF
